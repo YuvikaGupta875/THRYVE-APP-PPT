@@ -9,11 +9,15 @@ Engages users with interactive, personalized story arcs based on their emotional
 Delivers daily animated lessons for mindfulness, stress management, and coping strategies.
 Tracks progress with milestones and emotional insights.
 Provides crisis support with calming exercises, safety plans, and emergency resources, including an innovative stealth mode for users in unsafe environments.
+
+
 #How we built it:
 Backend: AI-driven NLP algorithms for emotional analysis and chatbot features using TensorFlow and Hugging Face.
 Frontend: Flutter framework for cross-platform functionality and engaging user interfaces.
 Story Engine: A decision-making engine written in Python that adapts stories dynamically to users’ emotional inputs.
 Crisis Mode: Offline functionality and rapid UI transformation built using secure local storage and gesture recognition APIs.
+
+
 #Challenges we ran into:
 Designing AI models sensitive enough to interpret emotions accurately without being invasive.
 Ensuring seamless offline and stealth functionalities for users in distress.
@@ -22,10 +26,14 @@ Accomplishments that we're proud of
 Developing an empathetic AI chatbot that feels human and fosters trust.
 Creating a personalized, interactive storytelling feature to teach emotional resilience in a relatable way.
 Innovating a stealth crisis mode that prioritizes user safety.
+
+
 #What we learned:
 The power of integrating technology with storytelling to address mental health challenges.
 The importance of user privacy and security, especially for vulnerable individuals.
 How gamification can motivate consistent mental health habits without compromising sincerity.
+
+
 #What's next for Thryve App:
 Expanding Story Libraries: Introducing more culturally inclusive stories and scenarios.
 AI Enhancements: Improving emotional analysis with multimodal AI (e.g., voice tone, text).
